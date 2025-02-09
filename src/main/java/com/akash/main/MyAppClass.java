@@ -7,9 +7,10 @@ public class MyAppClass {
 
 		System.out.print(" Hello Good Morning, This is sunday !!!!! This is my feature 2  ");
 		
+		System.out.println("      ");
 		
-		for(int i = 0 ; i < 10 ; i++) {
-			System.out.print(" I am learning Jenkins..........");
+		for(int i = 1 ; i < 11 ; i++) {
+			System.out.println(i + " I am learning Jenkins with harsh and suyash..........");
 		}
 	}
 
